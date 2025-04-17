@@ -35,7 +35,7 @@ For placement in designated areas, we trained an image classification model by f
 
 <div align="center">
 <img src="Assets/image-dataset.png" width=700"/ >
-<p>Algorithm Pipeline</p>
+<p>Image Classification</p>
 </div>
 
 ## 💻 Code Structure
